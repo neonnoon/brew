@@ -2,8 +2,8 @@ require 'formula'
 
 class Hookit < Formula
   homepage 'https://github.com/neonnoon/hookit'
-  url 'https://github.com/neonnoon/hookit/archive/v0.1.0.tar.gz'
-  sha256 '5701d21fcff01f4117cb864b9fb7ab5049bc9be083076040cc375c5a4c6d87a8'
+  url 'https://github.com/neonnoon/hookit/archive/v0.2.0.tar.gz'
+  sha256 'a42024ceffc00a4aeba4aaf3a55162a8d7ae3fe845bbbdae841b7b470f500ce3'
 
   head 'https://github.com/neonnoon/hookit.git'
 
