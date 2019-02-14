@@ -2,8 +2,8 @@ require 'formula'
 
 class Yolk < Formula
   homepage 'https://github.com/neonnoon/yolk'
-  url 'https://github.com/neonnoon/yolk/archive/v0.1.0.tar.gz'
-  sha256 'd80a434fd3fe455c79af31aedd4f50454456f85369aaedcf7f6af49c536ff89b'
+  url 'https://github.com/neonnoon/yolk/archive/v0.2.0.tar.gz'
+  sha256 '2dc36c47aae8791a29f3eab0708c27232eb9505112001e89bf08b1dff8c23530'
 
   head 'https://github.com/neonnoon/yolk.git'
 
