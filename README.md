@@ -1,4 +1,4 @@
-# brew
+# homebrew-forumla
 Homebrew tap — cheers.
 
 * [hookit](https://github.com/neonnoon/hookit)
