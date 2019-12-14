@@ -7,6 +7,8 @@ class Hookit < Formula
 
   head 'https://github.com/neonnoon/hookit.git'
 
+  depends_on 'coreutils'
+
   def install
     libexec.install 'git-hook'
     libexec.install 'hookit'
